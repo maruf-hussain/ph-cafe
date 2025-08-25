@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "cover": "https://images.unsplash.com/photo-1667372393086-9d4001d51cf1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8amF2YXNjcmlwdHxlbnwwfHwwfHx8MA%3D%3D",
+    "title": "Mastering JavaScript in 2025",
+    "author": "Ayesha Rahman",
+    "author_img": "https://i.pravatar.cc/150?img=11",
+    "hashtags": ["#javascript", "#programming", "#webdev"],
+    "posted_time": "2025-08-20 14:35:00",
+    "reading_time": 6
+  },
+  {
+    "id": 2,
+    "cover": "https://images.unsplash.com/photo-1569693799105-4eb645d89aea?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTA0fHxqYXZhc2NyaXB0fGVufDB8fDB8fHww",
+    "title": "10 Tips for Learning React Fast",
+    "author": "Maruf Hussain",
+    "author_img": "https://i.pravatar.cc/150?img=22",
+    "hashtags": ["#react", "#frontend", "#coding"],
+    "posted_time": "2025-08-19 09:10:00",
+    "reading_time": 5
+  },
+  {
+    "id": 3,
+    "cover": "https://plus.unsplash.com/premium_photo-1661414432619-290cff769e15?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTk5fHxqYXZhc2NyaXB0fGVufDB8fDB8fHww",
+    "title": "Why Linux is the Best for Developers",
+    "author": "Sadia Karim",
+    "author_img": "https://i.pravatar.cc/150?img=33",
+    "hashtags": ["#linux", "#opensource", "#development"],
+    "posted_time": "2025-08-18 18:50:00",
+    "reading_time": 7
+  },
+  {
+    "id": 4,
+    "cover": "https://images.unsplash.com/photo-1587620962725-abab7fe55159?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzl8fGphdmFzY3JpcHR8ZW58MHx8MHx8fDA%3D",
+    "title": "The Future of AI Tools for Students",
+    "author": "Tanvir Ahmed",
+    "author_img": "https://i.pravatar.cc/150?img=44",
+    "hashtags": ["#AI", "#education", "#future"],
+    "posted_time": "2025-08-17 12:20:00",
+    "reading_time": 4
+  },
+  {
+    "id": 5,
+    "cover": "https://images.unsplash.com/photo-1669023414162-5bb06bbff0ec?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDJ8fGphdmFzY3JpcHR8ZW58MHx8MHx8fDA%3D",
+    "title": "Tailwind CSS: Design Faster in 2025",
+    "author": "Nusrat Jahan",
+    "author_img": "https://i.pravatar.cc/150?img=55",
+    "hashtags": ["#tailwindcss", "#design", "#frontend"],
+    "posted_time": "2025-08-15 08:00:00",
+    "reading_time": 5
+  },
+   {
+    "id": 6,
+    "cover": "https://plus.unsplash.com/premium_photo-1661414684896-83d6b8083225?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTc1fHxqYXZhc2NyaXB0fGVufDB8fDB8fHww",
+    "title": "Django: Design Faster in 2025",
+    "author": "Tamanna Jahan",
+    "author_img": "https://i.pravatar.cc/150?img=55",
+    "hashtags": ["#tailwindcss", "#design", "#backend"],
+    "posted_time": "2025-05-25 04:00:00",
+    "reading_time": 6
+  }
+]
